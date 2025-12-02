@@ -1,0 +1,57 @@
+venv/
+/venv
+
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+
+support/__pycache__/admin.cpython-313.pyc
+support/__pycache__/apps.cpython-313.pyc
+support/__pycache__/models.cpython-313.pyc
+support/__pycache__/serializers.cpython-313.pyc
+support/__pycache__/urls.cpython-313.pyc
+support/__pycache__/views.cpython-313.pyc
+support/migrations/__pycache__/0001_initial.cpython-313.pyc
+support/migrations/__pycache__/__init__.cpython-313.pyc
+user/__pycache__/__init__.cpython-313.pyc
+
+support/migrations/__pycache__/__init__.cpython-313.pyc
+user/__pycache__/admin.cpython-313.pyc
+user/__pycache__/apps.cpython-313.pyc
+user/__pycache__/models.cpython-313.pyc
+user/__pycache__/serializers.cpython-313.pyc
+user/__pycache__/urls.cpython-313.pyc
+user/__pycache__/views.cpython-313.pyc
+user/migrations/__pycache__/0001_initial.cpython-313.pyc
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+myenv/
+env/
+*.env
+.env/
+
+# Django stuff
+db.sqlite3
+# media/
+# staticfiles/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+example_env.txt
+*example_env.txt

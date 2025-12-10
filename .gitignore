@@ -57,5 +57,8 @@ db.sqlite3
 Thumbs.db
 
 example_env.txt
+example_env.txt/
+/example_env.txt
+*example_env.txt
 # example_env.txt
 # *example_env.txt

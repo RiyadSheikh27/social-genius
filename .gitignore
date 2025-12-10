@@ -56,5 +56,6 @@ db.sqlite3
 .DS_Store
 Thumbs.db
 
+example_env.txt
 # example_env.txt
 # *example_env.txt
